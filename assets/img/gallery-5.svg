@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1050" viewBox="0 0 900 1050" role="img">
+
+  <defs>
+    <linearGradient id="gallery5-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a1420"/><stop offset="1" stop-color="#1a0b0e"/>
+    </linearGradient>
+    <radialGradient id="gallery5-glow" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#7a1f2b" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7a1f2b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gallery5-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7cd8f"/><stop offset=".5" stop-color="#c9a24b"/><stop offset="1" stop-color="#8f6f2c"/>
+    </linearGradient>
+    <pattern id="gallery5-dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#f5ecd9" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1050" fill="url(#gallery5-bg)"/>
+  <rect width="900" height="1050" fill="url(#gallery5-glow)"/>
+  <rect width="900" height="1050" fill="url(#gallery5-dots)"/>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".28" stroke-width="1">
+    <rect x="32" y="32" width="836" height="986"/>
+  </g>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".3" stroke-width="1.4">
+    <circle cx="450" cy="441" r="234"/>
+    <circle cx="450" cy="441" r="270" stroke-opacity=".12"/>
+  </g>
+  <g fill="none" stroke="#c9a24b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".92">
+    <g transform="translate(450 441) scale(3.4615384615384617)">
+    <path d="M0-40c12 0 22 9 22 21 0 13-10 21-22 21S-22-6-22-19C-22-31-12-40 0-40Z"/>
+    <path d="M0-31c7 0 12 5 12 12S7-7 0-7s-12-5-12-12 5-12 12-12Z"/>
+    <path d="M0-22c3 0 5 2 5 5s-2 5-5 5-5-2-5-5 2-5 5-5Z"/>
+    <path d="M0 2v44M0 16c-10 0-16-5-20-12 10-2 17 3 20 12ZM0 30c10 0 16-5 20-12-10-2-17 3-20 12Z"/></g>
+  </g>
+  
+  <text x="450" y="82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="19" fill="#f5ecd9" fill-opacity="0.42" text-anchor="middle" letter-spacing="3.2" font-weight="400">MARIACHI HUACANA</text>
+  
+</svg>

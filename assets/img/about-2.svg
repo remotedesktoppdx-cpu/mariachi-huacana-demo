@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+
+  <defs>
+    <linearGradient id="about2-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f3d2a"/><stop offset="1" stop-color="#0c1a12"/>
+    </linearGradient>
+    <radialGradient id="about2-glow" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#2f5d3a" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#2f5d3a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="about2-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7cd8f"/><stop offset=".5" stop-color="#c9a24b"/><stop offset="1" stop-color="#8f6f2c"/>
+    </linearGradient>
+    <pattern id="about2-dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#f5ecd9" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1000" fill="url(#about2-bg)"/>
+  <rect width="800" height="1000" fill="url(#about2-glow)"/>
+  <rect width="800" height="1000" fill="url(#about2-dots)"/>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".28" stroke-width="1">
+    <rect x="28" y="28" width="744" height="944"/>
+  </g>
+  <g fill="none" stroke="#e7cd8f" stroke-opacity=".3" stroke-width="1.4">
+    <circle cx="400" cy="420" r="208"/>
+    <circle cx="400" cy="420" r="240" stroke-opacity=".12"/>
+  </g>
+  <g fill="none" stroke="#e7cd8f" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".92">
+    <g transform="translate(400 420) scale(3.076923076923077)">
+    <path d="M0-44v30"/>
+    <path d="M-8-52h16l-2 10h-12Z"/>
+    <path d="M0-14c-13 0-22 8-22 19 0 8 5 13 9 17-9 4-14 11-14 20 0 14 12 25 27 25s27-11 27-25c0-9-5-16-14-20 4-4 9-9 9-17 0-11-9-19-22-19Z"/>
+    <circle cx="0" cy="19" r="9"/>
+    <path d="M-12 37h24M-12 43h24"/>
+    <path d="M-7-44v84M0-44v84M7-44v84"/></g>
+  </g>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".5" stroke-width="1">
+    <path d="M366 830h68"/>
+    <circle cx="400" cy="830" r="2.4" fill="#c9a24b" stroke="none"/>
+  </g>
+  <text x="400" y="868" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#c9a24b" fill-opacity="1" text-anchor="middle" letter-spacing="5.6000000000000005" font-weight="600">EN EL ESCENARIO</text>
+  <text x="400" y="910" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#f5ecd9" fill-opacity="0.9" text-anchor="middle" letter-spacing="0" font-weight="400" font-style="italic">Energía y alma</text>
+  <text x="400" y="72" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#f5ecd9" fill-opacity="0.42" text-anchor="middle" letter-spacing="3.2" font-weight="400">MARIACHI HUACANA</text>
+  
+</svg>

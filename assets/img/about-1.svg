@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+
+  <defs>
+    <linearGradient id="about1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a1420"/><stop offset="1" stop-color="#1a0b0e"/>
+    </linearGradient>
+    <radialGradient id="about1-glow" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#7a1f2b" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7a1f2b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="about1-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7cd8f"/><stop offset=".5" stop-color="#c9a24b"/><stop offset="1" stop-color="#8f6f2c"/>
+    </linearGradient>
+    <pattern id="about1-dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#f5ecd9" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1000" fill="url(#about1-bg)"/>
+  <rect width="800" height="1000" fill="url(#about1-glow)"/>
+  <rect width="800" height="1000" fill="url(#about1-dots)"/>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".28" stroke-width="1">
+    <rect x="28" y="28" width="744" height="944"/>
+  </g>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".3" stroke-width="1.4">
+    <circle cx="400" cy="420" r="208"/>
+    <circle cx="400" cy="420" r="240" stroke-opacity=".12"/>
+  </g>
+  <g fill="none" stroke="#c9a24b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".92">
+    <g transform="translate(400 420) scale(3.076923076923077)">
+    <path d="M-10-46h14l3 10c4 14-4 22-4 30 0 11 14 9 14 22 0 16-14 22-14 34 0 6 3 9 3 9h-12c0-10-14-16-14-32 0-13 14-11 14-22 0-8-8-16-4-30Z"/>
+    <path d="M-12-46h16M-6-52v6"/>
+    <path d="M-5-24c3 3 3 7 0 10"/>
+    <path d="M-1-4v48M3-4v48"/>
+    <path d="M-6 48h12"/></g>
+  </g>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".5" stroke-width="1">
+    <path d="M366 830h68"/>
+    <circle cx="400" cy="830" r="2.4" fill="#c9a24b" stroke="none"/>
+  </g>
+  <text x="400" y="868" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#c9a24b" fill-opacity="1" text-anchor="middle" letter-spacing="5.6000000000000005" font-weight="600">NUESTRA ESENCIA</text>
+  <text x="400" y="910" font-family="Georgia, 'Times New Roman', serif" font-size="29" fill="#f5ecd9" fill-opacity="0.9" text-anchor="middle" letter-spacing="0" font-weight="400" font-style="italic">Tradición viva</text>
+  <text x="400" y="72" font-family="Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#f5ecd9" fill-opacity="0.42" text-anchor="middle" letter-spacing="3.2" font-weight="400">MARIACHI HUACANA</text>
+  
+</svg>

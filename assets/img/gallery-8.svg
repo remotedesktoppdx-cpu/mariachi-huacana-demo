@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1150" viewBox="0 0 900 1150" role="img">
+
+  <defs>
+    <linearGradient id="gallery8-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a3818"/><stop offset="1" stop-color="#191207"/>
+    </linearGradient>
+    <radialGradient id="gallery8-glow" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#c9a24b" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#c9a24b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gallery8-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7cd8f"/><stop offset=".5" stop-color="#c9a24b"/><stop offset="1" stop-color="#8f6f2c"/>
+    </linearGradient>
+    <pattern id="gallery8-dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#f5ecd9" fill-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1150" fill="url(#gallery8-bg)"/>
+  <rect width="900" height="1150" fill="url(#gallery8-glow)"/>
+  <rect width="900" height="1150" fill="url(#gallery8-dots)"/>
+  <g fill="none" stroke="#c9a24b" stroke-opacity=".28" stroke-width="1">
+    <rect x="32" y="32" width="836" height="1086"/>
+  </g>
+  <g fill="none" stroke="#f5ecd9" stroke-opacity=".3" stroke-width="1.4">
+    <circle cx="450" cy="483" r="234"/>
+    <circle cx="450" cy="483" r="270" stroke-opacity=".12"/>
+  </g>
+  <g fill="none" stroke="#f5ecd9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity=".92">
+    <g transform="translate(450 483) scale(3.4615384615384617)">
+    <path d="M0-42 11-13 42-12 17 7 26 38 0 20-26 38-17 7-42-12-11-13Z"/></g>
+  </g>
+  
+  <text x="450" y="82" font-family="Inter, Helvetica, Arial, sans-serif" font-size="19" fill="#f5ecd9" fill-opacity="0.42" text-anchor="middle" letter-spacing="3.2" font-weight="400">MARIACHI HUACANA</text>
+  
+</svg>
